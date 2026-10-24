@@ -3,13 +3,13 @@
 > Utilities related to "Make it a Quote".
 
 [![npm](https://img.shields.io/npm/v/@makeitaquote/utils)](https://www.npmjs.com/package/@makeitaquote/utils)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/otnc/makeitaquote-utils/ci.yml?branch=main)](https://github.com/otnc/makeitaquote-utils/actions)
-[![GitHub](https://img.shields.io/github/license/otnc/makeitaquote-utils)](https://github.com/otnc/makeitaquote-utils/blob/main/LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/OpenMiQ/makeitaquote-utils/ci.yml?branch=main)](https://github.com/OpenMiQ/makeitaquote-utils/actions)
+[![GitHub](https://img.shields.io/github/license/OpenMiQ/makeitaquote-utils)](https://github.com/OpenMiQ/makeitaquote-utils/blob/main/LICENSE)
 [![Node](https://img.shields.io/node/v/@makeitaquote/utils)](https://www.npmjs.com/package/@makeitaquote/utils)
 
-The ordinary, domain-agnostic pieces shared by [`makeitaquote`](https://github.com/otnc/makeitaquote),
-[`@makeitaquote/voids`](https://github.com/otnc/makeitaquote-voids) and
-[`@makeitaquote/miqx`](https://github.com/otnc/makeitaquote-miqx) — an HTTP client, shared error
+The ordinary, domain-agnostic pieces shared by [`makeitaquote`](https://github.com/OpenMiQ/makeitaquote),
+[`@makeitaquote/voids`](https://github.com/OpenMiQ/makeitaquote-voids) and
+[`@makeitaquote/miqx`](https://github.com/OpenMiQ/makeitaquote-miqx) — an HTTP client, shared error
 classes, input-validation primitives, a deprecation-warning helper, Discord mention/markdown/message
 helpers, plain-text Markdown/MFM/Twitter-text normalization, and a Twitter v2 author-matching helper.
 Domain-specific logic (how each package builds its own quote shape, its own API-specific error
