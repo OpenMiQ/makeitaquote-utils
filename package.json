@@ -17,13 +17,13 @@
     "markdown",
     "api"
   ],
-  "homepage": "https://github.com/otnc/makeitaquote-utils#readme",
+  "homepage": "https://github.com/OpenMiQ/makeitaquote-utils#readme",
   "bugs": {
-    "url": "https://github.com/otnc/makeitaquote-utils/issues"
+    "url": "https://github.com/OpenMiQ/makeitaquote-utils/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otnc/makeitaquote-utils.git"
+    "url": "git+https://github.com/OpenMiQ/makeitaquote-utils.git"
   },
   "license": "MIT",
   "author": "otoneko.",
