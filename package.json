@@ -122,8 +122,8 @@
   },
   "dependencies": {
     "discomd": "^1.2.0",
-    "mfm-js": "^0.26.0",
-    "markdown-it": "^15.0.1",
+    "markdown-it": "^15.0.3",
+    "mfm-js": "^0.28.0",
     "ofetch": "^1.5.1"
   },
   "devDependencies": {
